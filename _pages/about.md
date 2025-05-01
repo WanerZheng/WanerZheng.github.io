@@ -13,4 +13,4 @@ My past internships include roles at Soochow Securities and Zhejiang Zheqi Indus
 
 At Cornell, I continue to deepen my skills in stochastic calculus, optimization, and machine learning, with a focus on financial applications. I’m passionate about designing data-driven trading solutions and understanding market microstructure.
 
-Outside of quant, I’m a longtime opera Soprano and a big fan of Korean hip-hop — especially Jay Park and JUSTHIS.
+Outside of quant, I’m a longtime opera soprano and a big fan of Korean hip-hop — especially [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) and [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3).
