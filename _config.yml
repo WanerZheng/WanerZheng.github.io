@@ -22,23 +22,23 @@ repository               : "WanerZheng/WanerZheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "WanerZheng_picture.png"
+  name             : "Waner Zheng"
+  pronouns         : "she/her"  
+  bio              : "Quant / Soprano"
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wz462@cornell.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -58,9 +58,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/_zzzwe_?igsh=MXhndG83eXczbWwxYQ%3D%3D&utm_source=qr"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/waner-zheng"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
