@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "With ZJU"
+excerpt: "Graduation photo at Qiushi Lecture Hall, Zhejiang University<br/><img src='Arina_ZJU.png'>"
 collection: portfolio
 ---
 
