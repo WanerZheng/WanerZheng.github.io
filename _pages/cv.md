@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Engineering in Financial Engineering, Cornell University, 2025
+* Bachelor of Economic Sciences in Finance, Zhejiang University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.3-2024.8: Soochow Securities Co., Ltd.
+  * Quantitative Research Intern
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.7-2023.10: Zhejiang Zheqi Industrial Co., Ltd.
+  * Quantitative Research Intern
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.6-2022.9: Zheshang Securities Co., Ltd.
+  * Investment Banking Intern
+
+Projects
+======
+* 2024.11-2024.12: Cornell University
+  * Emotion Classification of Natural Language
+
+* 2022.9-2023.2: Zhejiang University
+  * Machine Learning Research Project
+
+* 2022.3-2023.5: Zhejiang University
+  * Impact of Self-Fulfilling Expectations on Irrational Investment Behavior in Publicly Listed Companies
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* SQL
+* MATLAB
+* Excel
+* Tableau
+* Stata
+* EViews
+* Linux
+* LaTex
 
-Publications
+Coursework
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Prob & Stats, Stochastic Process, Stochastic Calculus, Econometrics, Optimization, Numerical Analysis, Monte Carlo Methods, ML, Big Data Tech, Algo Trading, Quant Risk Mgmt, Derivatives, Fixed Income
   
-Talks
+Leadership experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Soprano Section Leader, WenQin Chorus of Zhejiang University
+* Secured the championship title in the University and College Choirs category at the World Choir Games
